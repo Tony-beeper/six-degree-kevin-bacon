@@ -25,7 +25,6 @@ Postman(API testing)
 4. Make sure project structure on IDE is JDK Version 16.0.1  
 
 
-
 # DATABASE REQUIREMENTS
 
 Neo4j Required
@@ -36,6 +35,14 @@ Neo4j Required
 # DATABASE Setup
 
 Default DB connection port: bolt://localhost:7687
+
+# Junit Testing
+
+Simply run with CLI
+
+```sh
+mvn test
+```
 
 # API call
 
