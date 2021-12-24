@@ -11,9 +11,9 @@ Latest version of Java
 - JRE Version 16.0.1  
 
 Latest version of Neo4j Desktop  
-Maven version 3.6.3
-IntelliJ IDEA Community Edition(recommended IDE)
-Postman(API testing)
+Maven version 3.6.3  
+IntelliJ IDEA Community Edition(recommended IDE)  
+Postman(API testing)  
 
 ### Setup
 1. Clone the repo if needed
