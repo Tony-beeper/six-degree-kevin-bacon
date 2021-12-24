@@ -36,7 +36,7 @@ Neo4j Required
 
 Default DB connection port: bolt://localhost:7687
 
-# Junit Testing
+# JUnit Testing
 
 Simply run with CLI
 
