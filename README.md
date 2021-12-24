@@ -36,7 +36,6 @@ Neo4j Required
 # DATABASE Setup
 
 Default DB connection port: bolt://localhost:7687
-Can be changed in .env file
 
 # API call
 
